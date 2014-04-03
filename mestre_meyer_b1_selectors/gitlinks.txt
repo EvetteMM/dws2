@@ -1,0 +1,31 @@
+Evette Mestre Meyer 
+#2457636
+DWS2
+
+
+GIT LINKS
+https://github.com/EvetteMM/dws2/tree/gh-pages
+
+Assignment B1 Selectors:
+https://github.com/EvetteMM/dws2/tree/gh-pages/mestre_meyer_b1_selectors/mestre_meyer_evette_b1_selectors/selectors.html
+https://github.com/EvetteMM/dws2/tree/gh-pages/mestre_meyer_b1_selectors/mestre_meyer_evette_b1_selectors/css/main_selectors.css
+
+
+Assignment B2 Responsive from Scratch: 
+
+Assignment B3 Responsive with Skeleton Framework: 
+
+Assignment B4 Responsive with Bootstrap:
+
+Assignment B5 Responsive with Foundation:
+
+Assignment B6 Position with RWD:
+
+Assignment B7 CSS Forms:
+
+Assignment B8 CSS Transitions, Transforms, Animations: 
+
+Assignment B9 Final Project:
+
+
+
